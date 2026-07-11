@@ -13,7 +13,7 @@ A high-performance, object-oriented C++ implementation of the classic Tetris gam
 * **💥 Hard Drop Mechanism:** Need to act fast? Instantly commit your piece to its lowest legal position using the `Spacebar` for those clutch plays!
 * **🧹 Smart Line-Clearing Logic:** The `clearLines()` function scans for full rows, awards massive points for clearing multiple lines at once, and consolidates the board by shifting blocks downward.
 
----
+ ---
 
 ## ⌨️ 2. Control Scheme
 | Action | Key | Description |
