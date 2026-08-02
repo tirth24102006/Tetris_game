@@ -3,7 +3,7 @@
 A high-performance, object-oriented C++ implementation of the classic Tetris game, meticulously designed for the Windows console environment to provide an authentic, smooth, and challenging arcade experience. 🚀
  
 ---
-
+ 
 ## 🌟 1. Comprehensive Features & Capabilities
 * **📈 Dynamic Difficulty Scaling:** The game engine intelligently monitors your total score, automatically decreasing the fall speed every time you reach a new level milestone, ensuring the game becomes progressively more intense!
 * **⚡ Efficient, Flicker-Free Rendering:** By leveraging the Windows API (`SetConsoleCursorPosition`), the game avoids the standard performance-heavy screen refresh method. It updates only the specific grid coordinates, ensuring a butter-smooth visual experience.
