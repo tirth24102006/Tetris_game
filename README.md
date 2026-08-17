@@ -1,7 +1,7 @@
 # 🧩 C++ Console Tetris 🎮
 
 A high-performance, object-oriented C++ implementation of the classic Tetris game, meticulously designed for the Windows console environment to provide an authentic, smooth, and challenging arcade experience. 🚀
- 
+  
 --- 
  
 ## 🌟 1. Comprehensive Features & Capabilities
